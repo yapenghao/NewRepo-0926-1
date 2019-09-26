@@ -10,7 +10,7 @@ namespace ConsoleApp0926_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Waster");
+            Console.WriteLine("master");
         }
     }
 }
